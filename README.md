@@ -1,4 +1,4 @@
-# To-Do Web App
+# To-Do Web App LINK: https://d39mrcaum0z3hl.cloudfront.net/
 
 ## Overview
 A serverless web application built with React, Vite, and Tailwind CSS, utilizing Firebase for authentication and Firestore for event management. Deployed using AWS S3 and CloudFront.
@@ -10,7 +10,7 @@ A serverless web application built with React, Vite, and Tailwind CSS, utilizing
 - Fast and secure content delivery with AWS CloudFront as CDN
 
 ## Architechture 
-'''
+```
 
 +--------------------+       +------------------+       +---------------------+
 |                    |       |                  |       |                     |
@@ -27,4 +27,4 @@ A serverless web application built with React, Vite, and Tailwind CSS, utilizing
                             +--------------------+
 
 
-'''
+```
