@@ -1,0 +1,7 @@
+/* FullCalendar black grid lines */
+.fc-theme-standard .fc-scrollgrid, 
+.fc-theme-standard td, 
+.fc-theme-standard th, 
+.fc-theme-standard .fc-col-header-cell {
+  border-color: black !important;
+}
