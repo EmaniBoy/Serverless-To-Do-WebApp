@@ -7,9 +7,10 @@ A serverless web application built with React, Vite, and Tailwind CSS, utilizing
 - User authentication with Firebase
 - Event management NoSQL DB with Firestore
 - Responsive design with Tailwind CSS
-- Fast and secure content delivery with AWS CloudFront
+- Fast and secure content delivery with AWS CloudFront as CDN
 
 ## Architechture 
+'''
 
 +--------------------+       +------------------+       +---------------------+
 |                    |       |                  |       |                     |
@@ -24,3 +25,6 @@ A serverless web application built with React, Vite, and Tailwind CSS, utilizing
                             | (Auth & Firestore) |
                             |                    |
                             +--------------------+
+
+
+'''
